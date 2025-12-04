@@ -1,2 +1,2 @@
 # MHWI-LuaF-mods
-Some Lua Script based on LuaFramework
+Some Lua script based on [LuaFramework](https://github.com/eigeen/LuaFramework)
